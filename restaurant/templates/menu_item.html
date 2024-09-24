@@ -20,17 +20,18 @@
                 </h2>
                 <p>
                     <!-- Step: Replace code here -->
-                   Price: €{{ menu_item.price }}.00
+                
+                     {{ menu_item.description }}
                 </p>
                 <p>
                     <!-- Step: Replace code here -->
-                    {{ menu_item.menu_item_description }}
+                       Price: €{{ menu_item.price }}.00
                 </p>
             </div>
             <!--End col-->
             <!--Begin col-->
             <div class="column">
-                <img src="/static/img/menu_items/{{menu_item.name}}.jpg" alt="{{ menu_item.name}}" />
+                <img src="/restaurant/static/img/menu_items/{{menu_item.name}}.jpg" alt="{{ menu_item.name}}" />
             </div>
             <!--End col-->
         </div>

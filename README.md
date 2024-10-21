@@ -16,4 +16,4 @@ Our Menu
 You can make your reservation now 
 
 
-![Screenshot from 2024-09-24 20-16-11](https://github.com/user-attachments/assets/848a50a8-32d3-4db9-9195-8f070889b9b8)
+![Screenshot from 2024-09-24 20-16-51](https://github.com/user-attachments/assets/0fce1cc9-75f8-476e-9e60-3775f240b7e8)

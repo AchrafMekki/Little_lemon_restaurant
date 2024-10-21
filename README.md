@@ -56,10 +56,10 @@ python manage.py migrate
 
 ```bash
 python manage.py runserver
-
 ```
 **Access the website:**
 
 ```bash
 Open a web browser 
-navigate to http://127.0.0.1:8000/```
+navigate to http://127.0.0.1:8000/
+```

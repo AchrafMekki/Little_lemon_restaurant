@@ -18,46 +18,49 @@ This project is a restaurant website built using Django, where users can explore
 
 ## Step-by-Step Guide
 
-**Clone the repository:**
+**1. Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/restaurant-website.git
+HTTPS : git clone https://github.com/AchrafMekki/Little_lemon_restaurant.git
+SSH :  git clone git@github.com:AchrafMekki/Little_lemon_restaurant.git
 ```
-**Navigate to the project directory:**
+**2. Navigate to the project directory:**
 
 ```bash
-cd restaurant-website
+cd littlelemon
 ```
 
-**Create a virtual environment:**
+**3. Create a virtual environment:**
 
 ```bash
 python -m venv .venv
 ```
-**Activate the virtual environment:**
+
+**4. Activate the virtual environment:**
 
 ```bash
 source .venv/bin/activate
 ```
 
-**Install dependencies:**
+**5. Install dependencies:**
 
 ```bash
 pip install -r requirements.txt```bash
 ```
 
-**Run migrations:**
+**6. Run migrations:**
 
 ```bash
 python manage.py migrate
 ```
 
-**Start the development server:**
+**7. Start the development server:**
 
 ```bash
 python manage.py runserver
 ```
-**Access the website:**
+
+**8. Access the website:**
 
 ```bash
 Open a web browser 
